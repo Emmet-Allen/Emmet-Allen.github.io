@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-#Trying to figure things out...
+# Trying to figure things out...
 
 with using prose to post blogs with Jekyll.
 Hopefully it's not to hard.
