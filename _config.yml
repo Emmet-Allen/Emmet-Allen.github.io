@@ -6,7 +6,7 @@
 name: Emmet Allen
 
 # Short bio or description (displayed in the header)
-description: Software Developer from New York City
+description: Looking to branch out as a Developer. 🌱
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/59685332?s=460&u=2bb6ebb2ba09d113ff9f91a2bfb461529f7e88ce&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: Emmet-Allen
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/emmet-b-allen-03b472b6/
   linq: https://linqapp.com/emmet
   rss: # just type anything here for a working RSS icon
   twitter:
