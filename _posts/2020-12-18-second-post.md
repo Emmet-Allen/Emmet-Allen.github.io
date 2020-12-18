@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 #Trying to figure things out...
 
@@ -10,4 +10,3 @@ Hopefully it's not to hard.
 
 
 Above is a picture of my dog cobalt.
-
