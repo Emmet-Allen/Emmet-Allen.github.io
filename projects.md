@@ -4,7 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-Some information about you!
+### Under Construction
+
+<!-- Some information about you!
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com) -->
