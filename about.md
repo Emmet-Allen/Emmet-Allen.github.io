@@ -28,5 +28,5 @@ The backend framework that I am currently learning is Node.js .
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com) <br>
+[emmet.allen@gmail.com](emmet.allen@gmail.com) <br>
 Linq: https://linqapp.com/emmet (Virtual Business Card)
