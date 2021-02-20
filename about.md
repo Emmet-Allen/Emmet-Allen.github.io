@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Hi, my name is Emmet. Nice to meet you!
+title: 'Hi, my name is Emmet. Nice to meet you!'
 permalink: /about/
+published: true
 ---
 
 I'm a fledging developer, in the midst of a daunting but exciting career change from the medical field to the technology realm.
@@ -18,7 +19,7 @@ Currently, I work in a psychatric facility as a Theraputic Attendant/Behavioral 
 | JavaScript(ES6)  | BASH        | MySQL          |
 | Git              | React       | Node           | -->
 
-The laungages that I am currently comfortable with are HTML5/CSS3, SCSS, JavaScript(ES6), Git, and C++. However, I do know a fair amount of BASH.
+The laungages that I am currently comfortable with are HTML5/CSS3, SCSS, JavaScript(ES6), Git, and C++.
 
 The database that I am most comfortable with is Firestore, and I am currently learning MySQL.
 
