@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## NYU Tandon Bridge: Week 1 and My Fascination with LaTeX
 
@@ -20,5 +20,4 @@ How you may ask?
 
 That's because the .cls file compiles the packages within that file, with your .tex file, so that if a package is called in your .tex file, then the appropriate output will be displayed without including it directly with you work. So instead of having a mish-mash of all included packages and text in your .tex file, you can separate them for a smoother workflow. You can also export your favorite .cls files between .tex files if the packages that are called in the .tex files are also in the .cls file, and if they aren't you can just add them to the .cls file and have LaTeX compile them with ease. 
 
-In all, I look forward to using LaTeX in the upcoming weeks, to further hone my own understanding of the software along with answering the various questions about universal and existential statements, and proving arguments such as "There is no smallest number."  with finesse. 
-
+In all, I look forward to using LaTeX in the upcoming weeks, to further hone my own understanding of the software along with answering the various questions about universal and existential statements, and proving arguments such as "There is no smallest number."  with finesse.
