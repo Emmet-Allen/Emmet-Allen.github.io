@@ -4,9 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Moonlite: Sleep Tracker Login Screen (Concept)
-
-### URL: https://moonlite-login-react.netlify.app
+## [Moonlite: Sleep Tracker Login Screen] (https://moonlite-login-react.netlify.app)
 
 ### Description
 
