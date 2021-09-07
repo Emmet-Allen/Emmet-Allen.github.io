@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## TypeScript: Better JavaScript
 
@@ -9,5 +9,4 @@ published: false
   
 	There are counter arguments such as using Babel to compile larger projects and to create safer JavaScript code. Yes, Babel does have its uses, especially for pre-ES6 JavaScript code, but to start a project with TypeScripts ES6 support would eliminate the need to use Babel because the ES version code be easily changed through the config file and adjusted through the compiler accordingly. Another counter arguement is that TypeScript doesn't work as well with certain frameworks as it does others, such as the case in TS-React vs. TS-Angular, and I also do agree, TS-React can sometimes be daunting to work with because of the return types of certain hooks within a `.TSX` file, but these return types can be found through reading the documentation that is native in VSCode. Yes `:HTML.ElmementAttribute` is a weird return type, but it is just a small caveat that could be rectified through further implementation of TS support with React. 
 
-	In all, I think that TypeScript is an excellent tool, especially for someone coming from a statically typed programming language background. Though, it can also be an introduction for those who have started with JavaScript and want to learn about static types. Its a great tool, and I think with more support with other JavaScript frameworks, it could truly become the C++ of the web.   
- 
+	In all, I think that TypeScript is an excellent tool, especially for someone coming from a statically typed programming language background. Though, it can also be an introduction for those who have started with JavaScript and want to learn about static types. Its a great tool, and I think with more support with other JavaScript frameworks, it could truly become the C++ of the web.
