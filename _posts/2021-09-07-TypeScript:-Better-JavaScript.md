@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## TypeScript: Better JavaScript
 
   I have been using and learning TypeScript lately for a pretty large (Well for a solo project), API that I'm currently creating, and I have to say that TypeScript is that sweet intersection between ease of JavaScript, with all the nuanced compiler yelling at you nonsense that I love from languages such as C++ and Java. I mean yeah I can write code like this: `let var i = 2`, in JS and I can get away with it until some funky API call happens and that `var i` is added to a string, causing a mess of problems that I wouldn't want to deal with. Yes, the age old problem of "What does this do: `let var j = i + '2'`. Sadly, I am not running the chronium engine in my brain, but I can say with 99% accuracy that it will do things you didn't intend for that block of code to do. 
 
