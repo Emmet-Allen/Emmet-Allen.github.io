@@ -21,15 +21,10 @@ Currently, I work in a psychatric facility as a Theraputic Attendant/Behavioral 
 | JavaScript(ES6)  | BASH        | MySQL          |
 | Git              | React       | Node           | -->
 
-The laungages that I am currently comfortable with are HTML5/CSS3, SCSS, JavaScript(ES6), Git, and C++.
+<!-- The laungages that I am currently comfortable with are HTML5/CSS3, SCSS, JavaScript(ES6), Git, and C++.
 
 The database that I am most comfortable with is Firestore, and I am currently learning MySQL.
 
 The web framework that I'm most comfortable with is React.
 
-The backend framework that I am currently learning is Node.js .
-
-### Contact me
-
-[emmet.allen@gmail.com](emmet.allen@gmail.com) <br>
-Linq: https://linqapp.com/emmet (Virtual Business Card)
+The backend framework that I am currently learning is Node.js . -->
