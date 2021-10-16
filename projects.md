@@ -5,6 +5,16 @@ permalink: /projects/
 published: true
 ---
 
+## [City Of Saints and Rebels: Landing Page](https://emmet-allen.github.io/COSAR/)
+
+### Description
+
+City Of Saints And Rebels: Website Concept for Upcoming StreetWear Clothing Brand.
+
+This is a concept website that I developed using BootStrap 5. It works on both desktop and mobile, but is more mobile friendly, with a centered layout. It is in a single page format, and was developed solely as a proof of concept, as asked for by the creator of the brand.
+
+<br>
+
 ## [Moonlite: Sleep Tracker Login Screen](https://moonlite-login-react.netlify.app)
 
 ### Description
@@ -19,6 +29,9 @@ published: true
   This App uses React, SCSS, and OpenWeather API. The Website is both desktop and mobile friendly. I created this app because I had a pebble watch that had a watch face called "NSFW Time" where the time would be told to you with numerous explitives. I really enjoyed that watchface and this is a homage to that.
 
   This App also takes advantage of the Async() and Await() functions, rather than relying on an external frameworks for API calls.
+
+
+
 
 <!-- Some information about you!
 
