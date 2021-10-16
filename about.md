@@ -5,7 +5,9 @@ permalink: /about/
 published: true
 ---
 
-I'm a fledging developer, in the midst of a daunting but exciting career change from the medical field to the technology realm.
+I'm a software developer, in the midst of a daunting but exciting career change from the medical field to the technology realm.
+
+## Skill-Set
 
 ### What Do You Do?
 

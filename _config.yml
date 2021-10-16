@@ -21,9 +21,9 @@ footer-links:
   email: emmet.allen@gmail.com
   facebook:
   flickr:
-  github: Emmet-Allen
+  github: https://github.com/Emmet-Allen
   instagram:
-  linkedin: https://www.linkedin.com/in/emmet-allen
+  linkedin: https://www.linkedin.com/in/emmet-allen/
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://emmet-allen.github.io
+url: https://emmet-allen.github.io/about/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
