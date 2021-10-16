@@ -66,7 +66,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $darkGray;
 }
 
 p {
@@ -74,11 +74,11 @@ p {
 }
 
 a {
-  color: $lightGray;
+  color: $black;
   text-decoration: none;
   cursor: pointer;
   &:hover{
-    color:$lightGray;
+    color:$blue;
   }
   &:active {
     color: $lightBlue;
@@ -171,7 +171,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $black;
 
   @include mobile {
     text-align: center;
@@ -240,7 +240,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
