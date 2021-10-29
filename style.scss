@@ -82,16 +82,6 @@ a {
   &:active {
     color: $lightBlue;
   }
-
-  @include mobile{
-    &:hover{
-      color: none;
-    }
-
-    &:active{
-      color:inherit;
-    }
-  }
 }
 
 ul,
