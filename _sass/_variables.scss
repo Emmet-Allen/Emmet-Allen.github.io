@@ -1,3 +1,6 @@
+//Imports
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,500&display=swap');
+
 
 //
 // VARIABLES
@@ -20,6 +23,7 @@ $lotion: #fefdfa;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$barlow: 'Barlow Condensed', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

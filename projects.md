@@ -5,6 +5,14 @@ permalink: /projects/
 published: true
 ---
 
+## [Royal Navy Capital: Online Banking Landing and Sign-In Page](https://royal-navy-capital.netlify.app)
+
+### Description
+
+The general theme for this project was to get re-acquinted with Web Development, specifically Front End Development. React was used for its ease of modularity through the use of conternization via components using the Flux Paradigm to ensure maximum code maintainability and unidirectional data flow. React Stylized Components was used for out-of-the-box intergration with React, further improving on Reacts' modularity by including styling that can be containerized to specific components and further reinforcing the Flux Paradigm. SCSS was used for its pre-processing styling power, enabling the use of global variables and import to be used within a master-style sheet, creating reinforced style containerization for general Web Components when necesscary. React Router was also used to minimize server calls within the page itself by manipulating the DOM of single-page applications, useful for controlling progressive resolution views between pages.
+
+<br>
+
 ## [City Of Saints and Rebels: Landing Page](https://emmet-allen.github.io/COSAR/)
 
 ### Description
@@ -19,8 +27,6 @@ This is a concept website that I developed using BootStrap 5. It works on both d
 ### Description
 
   This App uses React, SCSS, and OpenWeather API. The Website is both desktop and mobile friendly. I created this app because I had a pebble watch that had a watch face called "NSFW Time" where the time would be told to you with numerous explitives. I really enjoyed that watchface and this is a homage to that.
-
-  This App also takes advantage of the Async() and Await() functions, rather than relying on an external frameworks for API calls.
 
 <br>
 

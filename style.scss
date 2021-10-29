@@ -4,8 +4,7 @@
 //
 // IMPORTS
 //
-
-@import "reset";
+{@import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
@@ -36,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $helveticaNeue;
+  font-family: $barlow;
   color: $darkerGray;
   font-weight: bold;
 
@@ -82,6 +81,16 @@ a {
   }
   &:active {
     color: $lightBlue;
+  }
+
+  @include mobile{
+    &:hover{
+      color: none;
+    }
+
+    &:active{
+      color:inherit;
+    }
   }
 }
 
@@ -302,3 +311,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+}
