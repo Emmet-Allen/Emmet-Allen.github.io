@@ -221,14 +221,14 @@ img {
   cursor: pointer;
   font-family: $barlow;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 50px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 40px;
 
   @include mobile {
     margin: 3px 0;
@@ -237,7 +237,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 35px; // @TODO: Vertically middle align
   font-family: $barlow;
   font-size: 18px;
 
@@ -245,7 +245,7 @@ nav {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 24px;
   }
 
   a {
