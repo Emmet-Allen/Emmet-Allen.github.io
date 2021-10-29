@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Hi, my name is Emmet. Nice to meet you!'
+title: 'The man, the myth... eh I'm not a legend yet.'
 permalink: /about/
 published: true
 ---
