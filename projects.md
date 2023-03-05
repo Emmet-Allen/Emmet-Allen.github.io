@@ -5,8 +5,36 @@ permalink: /projects/
 published: true
 ---
 
-## [Royal Navy Capital: Online Banking Landing and Sign-In Page](https://royal-navy-capital.netlify.app)
+## [Bald_E VirtualMe](https://github.com/Emmet-Allen/Bald_E-VirtualMe)
 
+### Description
+
+Bald_E is a virtual 3d model of... well myself. Why would I create a virtual version of myself, you may ask? My life involves a ton of meetings, and sometimes I am not looking as spiffy as I should, or I don't want to be on camera but I want to be visually 'present' if that makes sense. To solve this issue I created a virutal version of myself which is protected and under BSD 3, so I am legally protected if anyone were to use my virtual likeness. It was created using Vroid studio, where I connect to VSeeFace for facial recognition and virtual camera capabilities.  
+
+<br>
+
+## [Untitled Platformer](https://github.com/Emmet-Allen/Platformer)
+
+### Description
+
+An Untitled Platformer using Lua and LOVE game engine
+
+A hobby project I'm creating to learn more about game developement. This project is using the Lua programing langauge, and the Love game engine. Currently I have only a debugging stage, but once the game logic is complete I hope to add more interactivity such as collectables, enemies, and more stages for the player to go through.
+
+<br>
+
+## [Dataiku and Pace Hackathon 2021](https://github.com/Emmet-Allen/PaceHackathon2021)
+
+### Description
+
+This project was a part of a Hackathon that was three months long (Sept - Nov 2021), in where a group of 3 students, myself included, were tasked with helping
+sellers understand what they should sell their homes for, as well as inform them of the most important attributes of a home which influence the price. The project
+consisted of webscrapping data from popular real estate websites and passing that information into machiene learning models on the Dataiku platform. We then
+were tasked with creating documentation based on our findings along with diagrams and charts.  
+
+<br>
+
+## [Royal Navy Capital: Online Banking Landing and Sign-In Page](https://royal-navy-capital.netlify.app)
 ### Description
 
 The general theme for this project was to get re-acquinted with Web Development, specifically Front End Development. React was used for its ease of modularity through the use of conternization via components using the Flux Paradigm to ensure maximum code maintainability and unidirectional data flow. React Stylized Components was used for out-of-the-box intergration with React, further improving on Reacts' modularity by including styling that can be containerized to specific components and further reinforcing the Flux Paradigm. SCSS was used for its pre-processing styling power, enabling the use of global variables and import to be used within a master-style sheet, creating reinforced style containerization for general Web Components when necesscary. React Router was also used to minimize server calls within the page itself by manipulating the DOM of single-page applications, useful for controlling progressive resolution views between pages.
@@ -28,7 +56,6 @@ This is a concept website that I developed using BootStrap 5. It works on both d
 
   This App uses React, SCSS, and OpenWeather API. The Website is both desktop and mobile friendly. I created this app because I had a pebble watch that had a watch face called "NSFW Time" where the time would be told to you with numerous explitives. I really enjoyed that watchface and this is a homage to that.
 
-<br>
 
 
 
