@@ -4,7 +4,7 @@ published: true
 
 This is the second part of the OOP primer series, where we discuss the concept of Abstraction and how it pertains to removing details of how an object works. 
 
-As always, if there are any comments please feel free to email me. 
+If there are any comments please feel free to email me. 
 
 **<u>Abstraction</u>**
 
