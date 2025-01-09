@@ -25,6 +25,7 @@ Stretch Name: The name of the recommended stretch.
 Suggested Time Per Set: How long to hold the stretch.
 Suggested Sets: The number of repetitions for each stretch.
 Description: Step-by-step instructions to perform each stretch effectively.
+<hr/>
 
 ## [QuickCalc](https://chromewebstore.google.com/detail/quickcalc/ibneokgnnenppcokmejepfdjhapepece)
 ### <u>Description</u>
