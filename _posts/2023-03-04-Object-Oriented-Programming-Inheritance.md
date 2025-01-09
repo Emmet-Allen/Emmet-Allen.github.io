@@ -1,5 +1,5 @@
 ---
-published: false
+published: true 
 ---
 
 This is the fourth part of the OOP primer series, where we discuss the concept of Inheritance and the idea that objects being able to inherit certain pieces of data from their 'parent' object.

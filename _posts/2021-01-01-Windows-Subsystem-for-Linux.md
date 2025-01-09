@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
   Windows Subsystem for Linux is a separate system that runs inside your Windows 10 OS, which makes the use for those who at least want to experiment with Linux/GNU a chance to do so without accidentally partitioning your whole C:\\ Drive. 

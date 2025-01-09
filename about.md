@@ -1,24 +1,18 @@
 ---
 layout: page
-title: 'The man, the myth... eh I'm not a legend yet.'
+title: 'A Quick About Me'
 permalink: /about/
 published: true
 ---
 
-I am currently a backend Software Engineer Consultant for Thoughtworks, and Masters in Computer Science student at Pace University. When I am not coding for work, I am studying and coding for school. When I am not coding, I am either practicing martial arts or travelling around the world.  
-
 ## What Do You Do?
 
-I am currently a Back-End Software Engineer Consultant for Thoughtworks... which is a lot of words to say to describe what I do in one sentence. In a nutshell, I and a group of other consultants take on clients who want to up their engineering game, whether that be in implementing Agile workflows into their ways of working, improving current software said companies use, or creating entirely new systems all together. Unlike a regular engineer, I discuss with clients what can and can't be done along with fleshing out proof of concepts, creating new features, and plenty more.
+I am currently a Back-End Software Engineer Consultant for Thoughtworks. In a nutshell, my team and I  are assigned to projects where clients want to up their engineering game. Whether that be in implementing Agile workflows into their ways of working, improving current software said companies use, introducing safer development practicies such as TDD and BDD, or creating entirely new systems all together. On the consultant side, I create ADRs publishing the pros and cons of certain software design features and use cases, providing cost analysis for certain features, also monitoring and dashboarding of our systems usually deployed in some derivative of Kubernetes. 
 
-I also am a Master's of Computer Science student at Pace University, where the bulk load of my studies is focused on Algorithmic Analysis... a fancy term for "how fast/efficent can I make this program run". To say I fell into this topic is an understatment, but I'm hoping to complete my thesis with proposing a new formula for Machiene Learning. 
+I also am a Master's of Computer Science student at Pace University, where the bulk load of my studies are focused on Algorithmic Analysis. To say I fell into this topic is an understatment, but the knowledge gained from this niche focus has helped me create and develop efficent solutions towards a multitude of problems. 
 
 ## What Do You Know?
 
-I still don't have a proper answer to this, there is always to much too learn. Currently I've been working with a fair amount of C# and .Net6. When doing school work I tend to gravitate to Python, and when volunteering I have been using Svelte-Kit and Typescript. I have experience with React and React Native, finishing a React Native app soon to be released to the public that uses TypeScript. I'm also pretty comfortable with Javascript to some degree for quick proof of concepts. I have some experience with Google Cloud Platfrom, but most of my work is currently using the Azure Cloud Platform. Git hub is a must for version control, and I am pretty comfortable dealing with Kubernete Clusters and Docker Containers. This is getting pretty bloated, so I would say take a look at my Github repos.
+I still don't have a proper answer to this, there is always to much too learn. Currently I've been working with a fair amount of C#, Azure, and Kubernetes. When doing school work I tend to gravitate towards Python or Java, and when I'm doing hobby projects, it depends on what language works best. I am certified in Azure, but have used GCP for both hobby projects and volunteer work. I also have some experience with creating task specific AI's and LLM's via Dify, but have now been more focused on smaller self-hosted LLM model's to aid in programmer productivity. 
 
 Lua is still my favorite language <3.
-
-## What Are You Working On? 
-
-I currently am working on a few projects, though my latest completed projects can be viewed [here](https://emmet-allen.github.io/projects/). I will try to update the blog to better reflect what I'm working on, but lets see. Though I do like writing about tech so be on the lookout!

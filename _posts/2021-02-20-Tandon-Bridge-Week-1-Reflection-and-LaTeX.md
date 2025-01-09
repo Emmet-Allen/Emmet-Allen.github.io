@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
   I am a student who is currently enrolled in NYU's Tandon Bridge Program, a 24-Week (or 17-Week) program meant for those who want to obtain a master's degree in a Computer Science field, but lack the formal education.

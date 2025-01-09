@@ -1,5 +1,5 @@
 ---
-published: false
+published: true 
 ---
 
 This is the third part of the OOP primer series, where we discuss the concept of Encapsulation and why its necesscary for objects to have their data contained within the object itself.
