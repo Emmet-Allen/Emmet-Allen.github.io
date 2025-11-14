@@ -5,6 +5,33 @@ permalink: /projects/
 published: true
 ---
 
+## [ChristAIn](https://huggingface.co/Emmet-Allen/christAIn)
+## [ChristAIn](https://huggingface.co/Emmet-Allen/christAIn-uncensored)
+### <u>Description</u>
+
+ChristAIn: The Bible-based AI Model
+
+ChristAIn is a trained model on a csv version of the bible, specifically using Low-Rank Adaptation (LoRA) to ensure that the Qwen model specifically highlights certain themes and keywords within the bible, while staying within the confines of my 8GBs of VRAM and optimizing for it's CUDA capabilities. Both models are GGUF enabled so they should be able to work in multiple LLM application formats, and can be hosted locally or within any of the major cloud providers.
+<hr/>
+
+## [The Weight Behind A Stroke](https://www.youtube.com/watch?v=xWLI_WKrq6o)
+### <u>Description</u>
+
+The Weight Behind A Stroke: How does a person's listed BMI affect their chances of having a stroke incidence?
+
+By using a dataset of over 100,000 individuals, I analyzed the relationship between BMI and stroke incidence to see if we can use machine learning modeling to predict chances of a stroke incident based on these factors. The dataset was preprocessed using Python libraries such as Pandas and NumPy, and the machine learning model was trained using Regression modeling via SciKit-Learn. 
+
+<hr/>
+
+## [Inflation and (Un)Happiness](https://www.youtube.com/watch?v=iDrXUeTML24)
+### <u>Description</u>
+
+Inflation and (Un)Happiness: How does a country's inflation rate affect its citizens' happiness levels? 
+
+This project explores the relationship between inflation and happiness levels in various countries, using data from the World Happiness Report and the International Monetary Fund. It is presented in a video format, providing a comprehensive analysis of the topic, with detailed visualizations and statistical analysis created in Python using libraries such as Pandas, Matplotlib, and Seaborn.
+<hr/>
+
+
 ## [Flexi-Buddy](https://udify.app/chat/MSxRFJAgZB0Dl9ET)
 ### <u>Description</u>
 

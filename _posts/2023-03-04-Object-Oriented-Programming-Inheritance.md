@@ -1,5 +1,5 @@
 ---
-published: true 
+published: false
 ---
 
 This is the fourth part of the OOP primer series, where we discuss the concept of Inheritance and the idea that objects being able to inherit certain pieces of data from their 'parent' object.
@@ -30,4 +30,3 @@ be only found in them or can only be inherited through a long lineage of
 inheritance. In OOP, this line of inheritance is the same; the child
 class inherits the data of the parent class, but the child class can
 modify and add to this data if need be.
-

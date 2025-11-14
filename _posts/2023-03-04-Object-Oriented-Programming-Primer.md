@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 This primer started out as a paper I wrote for a class for extra credit. The assignment was to explain how Object Oriented Programming(OOP) works to an audience who are unfamilar with OOP in general. I feel like sharing this paper could help others understand how OOP and its principles work when building programs, in terms that abstract knowing a specific coding language, and just understanding OOP as a general software engineering concept. The paper is almost five pages long, so I will be breaking it up to different sections dependening on the OOP principle that is being conveyed. Hopefully this series of guides can help others understand why OOP is so important in software engineering, and how understanding the overall concept of OOP is an integral part of becoming a better engineer.

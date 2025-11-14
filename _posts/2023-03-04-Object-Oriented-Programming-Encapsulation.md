@@ -1,5 +1,5 @@
 ---
-published: true 
+published: false 
 ---
 
 This is the third part of the OOP primer series, where we discuss the concept of Encapsulation and why its necesscary for objects to have their data contained within the object itself.
@@ -37,4 +37,3 @@ number that is data that is only accessible by a few special other
 person objects, you have a name that is accessible by all person
 objects, but you have an embarrassing secret that is only accessible to
 you and only you.
-
