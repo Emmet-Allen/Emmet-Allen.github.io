@@ -5,8 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-## [ChristAIn](https://huggingface.co/Emmet-Allen/christAIn)
-## [ChristAIn](https://huggingface.co/Emmet-Allen/christAIn-uncensored)
+## [ChristAIn](https://huggingface.co/Emmet-Allen/christAIn) & [ChristAIn-Uncensored](https://huggingface.co/Emmet-Allen/christAIn-uncensored)
 ### <u>Description</u>
 
 ChristAIn: The Bible-based AI Model
