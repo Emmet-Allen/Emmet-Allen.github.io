@@ -5,7 +5,6 @@ project_url: https://github.com/Emmet-Allen/Bald_E-VirtualMe
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
   <a href="{{ page.project_url }}" class="read-more">View Project</a>
 
   <div class="entry">

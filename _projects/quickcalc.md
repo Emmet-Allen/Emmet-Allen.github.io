@@ -5,7 +5,6 @@ project_url: https://chromewebstore.google.com/detail/quickcalc/ibneokgnnenppcok
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
   <a href="{{ page.project_url }}" class="read-more">View Project</a>
 
   <div class="entry">
