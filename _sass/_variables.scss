@@ -1,5 +1,5 @@
 //Imports
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 
 //
@@ -9,6 +9,7 @@
 // Colors
 $blue: #4183C4;
 $lightBlue: #ACE7F8;
+$purple: #6B3FA0;
 
 // Grays
 $black: #000;
@@ -23,7 +24,7 @@ $lotion: #fefdfa;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$barlow: 'Barlow Semi Condensed', sans-serif;
+$lora: 'Lora', serif;
 
 // Mobile breakpoints
 @mixin mobile {

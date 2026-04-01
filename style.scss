@@ -19,7 +19,7 @@ html {
 
 body {
   background: $lotion;
-  font: 18px/1.4 $barlow;
+  font: 22px/1.6 $lora;
   color: $darkGray;
 }
 
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $barlow;
+  font-family: $lora;
   color: $darkerGray;
   font-weight: bold;
 
@@ -82,6 +82,9 @@ a {
   }
   &:active {
     color: $lightBlue;
+  }
+  &:visited {
+    color: $purple;
   }
 
   @include mobile{
@@ -219,7 +222,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $barlow;
+  font-family: $lora;
   font-weight: 300;
   font-size: 50px;
   letter-spacing: 1px;
@@ -238,7 +241,7 @@ img {
 nav {
   float: right;
   margin-top: 35px; // @TODO: Vertically middle align
-  font-family: $barlow;
+  font-family: $lora;
   font-size: 18px;
 
   @include mobile {
