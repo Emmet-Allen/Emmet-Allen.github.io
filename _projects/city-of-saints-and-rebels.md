@@ -5,7 +5,8 @@ project_url: https://emmet-allen.github.io/COSAR/
 ---
 
 <article class="post">
-  <h1><a href="{{ page.project_url }}">{{ page.title }}</a></h1>
+  <h1>{{ page.title }}</h1>
+  <a href="{{ page.project_url }}" class="read-more">View Project</a>
 
   <div class="entry">
 City Of Saints And Rebels: Website Concept for Upcoming StreetWear Clothing Brand.

@@ -5,7 +5,8 @@ project_url: https://www.youtube.com/watch?v=xWLI_WKrq6o
 ---
 
 <article class="post">
-  <h1><a href="{{ page.project_url }}">{{ page.title }}</a></h1>
+  <h1>{{ page.title }}</h1>
+  <a href="{{ page.project_url }}" class="read-more">View Project</a>
 
   <div class="entry">
 The Weight Behind A Stroke: How does a person's listed BMI affect their chances of having a stroke incidence?

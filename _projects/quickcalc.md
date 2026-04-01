@@ -5,7 +5,8 @@ project_url: https://chromewebstore.google.com/detail/quickcalc/ibneokgnnenppcok
 ---
 
 <article class="post">
-  <h1><a href="{{ page.project_url }}">{{ page.title }}</a></h1>
+  <h1>{{ page.title }}</h1>
+  <a href="{{ page.project_url }}" class="read-more">View Project</a>
 
   <div class="entry">
 QuickCalc is a Google Chrome Extension created by both myself and my brother Erick Allen. The purpose of QuickCalc was to enable quick calculations of some simple and slightly complex

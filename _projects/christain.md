@@ -5,7 +5,8 @@ project_url: https://huggingface.co/Emmet-Allen/christAIn
 ---
 
 <article class="post">
-  <h1><a href="{{ page.project_url }}">{{ page.title }}</a></h1>
+  <h1>{{ page.title }}</h1>
+  <a href="{{ page.project_url }}" class="read-more">View Project</a>
 
   <div class="entry">
 ChristAIn: The Bible-based AI Model
