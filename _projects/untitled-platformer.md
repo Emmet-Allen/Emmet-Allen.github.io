@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Untitled Platformer
+date: 2024-05-01
 project_url: https://github.com/Emmet-Allen/Platformer
 ---
 

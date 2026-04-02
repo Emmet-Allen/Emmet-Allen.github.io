@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Dataiku and Pace Hackathon 2021
+date: 2021-11-30
 project_url: https://github.com/Emmet-Allen/PaceHackathon2021
 ---
 

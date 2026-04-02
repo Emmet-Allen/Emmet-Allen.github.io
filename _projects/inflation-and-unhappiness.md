@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Inflation and (Un)Happiness
+date: 2025-03-22
 project_url: https://www.youtube.com/watch?v=iDrXUeTML24
 ---
 

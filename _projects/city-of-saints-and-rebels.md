@@ -1,6 +1,7 @@
 ---
 layout: project
 title: City Of Saints and Rebels
+date: 2025-11-20
 project_url: https://emmet-allen.github.io/COSAR/
 ---
 

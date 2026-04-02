@@ -1,6 +1,7 @@
 ---
 layout: project
 title: QuickCalc
+date: 2024-12-05
 project_url: https://chromewebstore.google.com/detail/quickcalc/ibneokgnnenppcokmejepfdjhapepece
 ---
 

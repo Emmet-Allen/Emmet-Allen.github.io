@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Royal Navy Capital
+date: 2024-09-18
 project_url: https://royal-navy-capital.netlify.app
 ---
 

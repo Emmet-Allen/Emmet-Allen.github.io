@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Bald_E VirtualMe
+date: 2026-04-02
 project_url: https://github.com/Emmet-Allen/Bald_E-VirtualMe
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: project
 title: ChristAIn
+date: 2026-03-15
 project_url: https://huggingface.co/Emmet-Allen/christAIn
 ---
 

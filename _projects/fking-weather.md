@@ -1,6 +1,7 @@
 ---
 layout: project
 title: F***ing Weather
+date: 2025-08-10
 project_url: https://f-weather.netlify.app
 ---
 

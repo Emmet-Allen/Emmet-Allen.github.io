@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Flexi-Buddy
+date: 2025-06-15
 project_url: https://udify.app/chat/MSxRFJAgZB0Dl9ET
 ---
 

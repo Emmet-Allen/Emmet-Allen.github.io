@@ -1,6 +1,7 @@
 ---
 layout: project
 title: The Weight Behind A Stroke
+date: 2024-07-10
 project_url: https://www.youtube.com/watch?v=xWLI_WKrq6o
 ---
 
