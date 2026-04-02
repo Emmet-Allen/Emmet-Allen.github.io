@@ -78,8 +78,9 @@ gems:
 collections:
   projects:
     output: true
+    permalink: /projects/:title/
     sort_by: date
-    sort_order: descending
+    sort_order: desc
 
 # Exclude these files from your production _site
 exclude:
