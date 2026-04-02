@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: project
 title: Flexi-Buddy
 project_url: https://udify.app/chat/MSxRFJAgZB0Dl9ET
 ---
 
-<article class="post">
-  <h1><a href="{{ page.project_url }}">{{ page.title }}</a></h1>
+<a href="{{ page.project_url }}" class="read-more">View Project</a>
 
-  <div class="entry">
 Flexi-Buddy: The Generated AI Flexibility Assistant
 
 Flexi-buddy is a RAG GenAI app that is powered by gpt-3.5-turbo and uses multi-path retrieval to provide outputs based on specific flexibility-exercise context information.
@@ -25,5 +23,3 @@ Stretch Name: The name of the recommended stretch.
 Suggested Time Per Set: How long to hold the stretch.
 Suggested Sets: The number of repetitions for each stretch.
 Description: Step-by-step instructions to perform each stretch effectively.
-  </div>
-</article>
