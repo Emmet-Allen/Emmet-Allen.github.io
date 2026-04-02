@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for project in site.projects %}
+  {% for project in site.projects | sort: 'date' | reverse %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
