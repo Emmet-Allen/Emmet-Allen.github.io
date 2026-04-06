@@ -1,0 +1,20 @@
+.dark-mode-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: none;
+  border: 2px solid #333;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 9999;
+  font-size: 16px;
+  line-height: 1;
+  transition: all 0.3s ease;
+
+  svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+  }
+}
