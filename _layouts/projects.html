@@ -6,17 +6,16 @@ layout: default
   {% assign sorted_projects = site.projects | sort: "date" | reverse %}
   {% for project in sorted_projects %}
     <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
-
-      <div class="entry">
-        {{ project.excerpt }}
-      </div>
+      <h1><a href="{{ project.project_url }}" target="_blank">{{ project.title }}</a></h1>
 
       <div class="date">
-        Written on {{ project.date | date: "%B %e, %Y" }}
+        Created on {{ project.date | date: "%B %e, %Y" }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ project.url }}" class="read-more">Read More</a>
+      <div class="links">
+        <a href="{{ project.project_url }}" target="_blank" class="read-more">View Project</a> | 
+        <a href="{{ site.baseurl }}{{ project.url }}" class="read-more">Read More</a>
+      </div>
     </article>
   {% endfor %}
 </div>
