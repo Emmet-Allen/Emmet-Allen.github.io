@@ -320,6 +320,61 @@ nav {
 // .main
 //
 
+#search-container {
+  margin-bottom: 20px;
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-family: $lora;
+    color: $darkGray;
+    background-color: $white;
+    border: 2px solid $lightGray;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+    
+    &::placeholder {
+      color: $gray;
+    }
+    
+    &:focus {
+      outline: none;
+      border-color: $blue;
+      background-color: $lotion;
+      box-shadow: 0 0 0 3px rgba($blue, 0.1);
+    }
+  }
+}
+
+body.dark-mode #search-container input[type="text"] {
+  color: $dark-text;
+  background-color: $dark-bg;
+  border-color: $dark-border;
+  
+  &::placeholder {
+    color: $gray;
+  }
+  
+  &:focus {
+    background-color: $dark-nav-bg;
+    box-shadow: 0 0 0 3px rgba($blue, 0.3);
+  }
+}
+
+#no-results, #no-results-projects {
+  margin-top: 20px;
+  padding: 15px;
+  text-align: center;
+  color: $gray;
+  font-style: italic;
+  
+  body.dark-mode & {
+    color: $dark-text;
+  }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;

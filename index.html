@@ -2,9 +2,13 @@
 layout: default
 ---
 
-<div class="posts">
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="Search articles..." onkeyup="filterPosts()">
+</div>
+
+<div class="posts" id="posts-list">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post" data-title="{{ post.title | downcase }}" data-content="{{ post.excerpt | strip_html | downcase }}">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -16,3 +20,33 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<div id="no-results" style="display: none;">No articles found.</div>
+
+<script>
+function filterPosts() {
+  const input = document.getElementById('search-input');
+  const filter = input.value.toLowerCase();
+  const posts = document.getElementById('posts-list').getElementsByTagName('article');
+  let hasResults = false;
+  
+  for (let i = 0; i < posts.length; i++) {
+    const title = posts[i].getAttribute('data-title');
+    const content = posts[i].getAttribute('data-content');
+    
+    if (title.indexOf(filter) > -1 || content.indexOf(filter) > -1) {
+      posts[i].style.display = '';
+      hasResults = true;
+    } else {
+      posts[i].style.display = 'none';
+    }
+  }
+  
+  const noResults = document.getElementById('no-results');
+  if (!hasResults && filter.length > 0) {
+    noResults.style.display = 'block';
+  } else {
+    noResults.style.display = 'none';
+  }
+}
+</script>
