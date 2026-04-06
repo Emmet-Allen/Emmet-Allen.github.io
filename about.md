@@ -7,12 +7,14 @@ published: true
 
 ## What Do You Do?
 
-I am currently a Back-End Software Engineer Consultant for Thoughtworks. In a nutshell, my team and I  are assigned to projects where clients want to up their engineering game. Whether that be in implementing Agile workflows into their ways of working, improving current software said companies use, introducing safer development practicies such as TDD and BDD, or creating entirely new systems all together. On the consultant side, I create ADRs publishing the pros and cons of certain software design features and use cases, providing cost analysis for certain features, also monitoring and dashboarding of our systems usually deployed in some derivative of Kubernetes. 
+I am currently a Solutions Engineer at Arango, working on database solutions for AI-powered applications. I specialize in designing and implementing scalable data infrastructure that enables AI systems to process, store, and retrieve information efficiently. Previously, I worked at Thoughtworks as Software Engineer Consultant where I held different roles. My last role was as a Forward Deployed Engineer, where I developed custom integration middleware using TypeScript and Express.js to bridge AI conversational platforms with enterprise systems. Before that, I worked as an AI Engineer, focusing on R&D for agentic workflows and domain-specific language models.
 
-I also am a Master's of Computer Science student at Pace University, where the bulk load of my studies are focused on Algorithmic Analysis. To say I fell into this topic is an understatment, but the knowledge gained from this niche focus has helped me create and develop efficent solutions towards a multitude of problems. 
+I hold a Master's in Computer Science from Pace University, with coursework in Pattern Recognition, Data Science, Artificial Intelligence, and Parallel Processing. My background includes a BSc in Psychology, which informs my approach to human-centered AI design.
 
 ## What Do You Know?
 
-I still don't have a proper answer to this, there is always to much too learn. Currently I've been working with a fair amount of C#, Azure, and Kubernetes. When doing school work I tend to gravitate towards Python or Java, and when I'm doing hobby projects, it depends on what language works best. I am certified in Azure, but have used GCP for both hobby projects and volunteer work. I also have some experience with creating task specific AI's and LLM's via Dify, but have now been more focused on smaller self-hosted LLM model's to aid in programmer productivity. 
+My expertise spans TypeScript, Python, .NET, Azure (AKS, Container Registry), GCP (Vertex AI), Docker, Kafka, and Cloudflare Edge. I specialize in LLM fine-tuning using LoRA and CUDA-optimized training pipelines.
 
-Lua is still my favorite language <3.
+I have extensive experience with RAG systems, CrewAI, and benchmarking tools like LM-Evaluation Harness.
+
+I'm passionate about scalable data engineering, AI-enabled workflows, and architectural decision-making. Microsoft Azure Fundamentals certified. 

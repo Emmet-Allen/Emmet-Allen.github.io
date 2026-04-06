@@ -21,6 +21,57 @@ body {
   background: $lotion;
   font: 22px/1.6 $lora;
   color: $darkGray;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  background: $dark-bg;
+  color: $dark-text;
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: $dark-header;
+  }
+  
+  a {
+    color: $lightBlue;
+    &:hover {
+      color: $blue;
+    }
+    &:active {
+      color: inherit;
+    }
+    &:visited {
+      color: $purple;
+    }
+  }
+  
+  .masthead {
+    border-bottom: 1px solid $dark-border;
+  }
+  
+  .site-name, nav a {
+    color: $dark-header;
+  }
+  
+  .site-description {
+    color: $gray;
+  }
+  
+  .posts > .post {
+    border-bottom: 1px solid $dark-border;
+  }
+  
+  .wrapper-footer {
+    border-top: 1px solid $dark-border;
+    border-bottom: 1px solid $dark-border;
+    background-color: $dark-nav-bg;
+  }
+}
+
+body.dark-mode ::-moz-selection,
+body.dark-mode ::selection {
+  color: $white;
+  background: $gray;
 }
 
 .container {
