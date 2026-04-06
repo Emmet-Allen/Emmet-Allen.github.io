@@ -1,28 +1,50 @@
 .dark-mode-toggle {
+  width: 60px;
+  height: 32px;
+  background: #ccc;
+  border-radius: 16px;
   position: relative;
-  background: none;
-  border: 2px solid #333;
-  padding: 10px 15px;
-  border-radius: 8px;
   cursor: pointer;
-  font-size: 16px;
-  line-height: 1;
-  transition: all 0.3s ease;
+  transition: background 0.3s ease;
 
-  svg {
-    width: 24px;
-    height: 24px;
-    fill: currentColor;
+  .toggle-icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 1;
+    transition: opacity 0.3s ease;
   }
-}
 
-footer .dark-mode-toggle {
-  float: right;
-  margin-top: -15px;
-  position: relative;
-  top: 0;
+  .moon-icon {
+    right: 8px;
+  }
+
+  .sun-icon {
+    left: 8px;
+    opacity: 0;
+  }
+
+  &.dark-mode {
+    background: #fff;
+
+    .sun-icon {
+      opacity: 1;
+    }
+
+    .moon-icon {
+      opacity: 0;
+    }
+  }
 }
 
 body.dark-mode footer .dark-mode-toggle {
   color: #fff;
+}
+
+#dark-mode-toggle {
+  margin-top: -4.5rem;
+  position: relative;
+  right: 1rem;
 }
