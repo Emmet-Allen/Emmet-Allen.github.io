@@ -1,11 +1,14 @@
 .dark-mode-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
   width: 60px;
   height: 32px;
   background: #ccc;
   border-radius: 16px;
-  position: relative;
   cursor: pointer;
   transition: background 0.3s ease;
+  z-index: 1000;
 
   .toggle-icon {
     width: 20px;
@@ -37,14 +40,4 @@
       opacity: 0;
     }
   }
-}
-
-body.dark-mode footer .dark-mode-toggle {
-  color: #fff;
-}
-
-#dark-mode-toggle {
-  margin-top: -4.5rem;
-  position: relative;
-  right: 1rem;
 }
