@@ -1,13 +1,10 @@
 .dark-mode-toggle {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
+  position: relative;
   background: none;
   border: 2px solid #333;
   padding: 10px 15px;
   border-radius: 8px;
   cursor: pointer;
-  z-index: 9999;
   font-size: 16px;
   line-height: 1;
   transition: all 0.3s ease;
@@ -17,4 +14,15 @@
     height: 24px;
     fill: currentColor;
   }
+}
+
+footer .dark-mode-toggle {
+  float: right;
+  margin-top: -15px;
+  position: relative;
+  top: 0;
+}
+
+body.dark-mode footer .dark-mode-toggle {
+  color: #fff;
 }
